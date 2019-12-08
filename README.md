@@ -7,7 +7,8 @@
 ## Screenshots
 
 
-![An image](ihttps://i.imgur.com/GKkXDZY.png) <!-- .element height="50%" width="50%" -->
+![An image](ihttps://i.imgur.com/GKkXDZY.png)
+
 
 
 ![Downloading](https://i.imgur.com/6rdG3NW.png)

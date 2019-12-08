@@ -7,8 +7,7 @@
 ## Screenshots
 
 
-![An image](ihttps://i.imgur.com/GKkXDZY.png)
-
+![Downloading](https://i.imgur.com/GKkXDZY.png)
 
 
 ![Downloading](https://i.imgur.com/6rdG3NW.png)

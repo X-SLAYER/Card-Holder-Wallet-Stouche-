@@ -7,7 +7,7 @@
 ## Screenshots
 
 
-<img src="https://i.imgur.com/GKkXDZY.png"/>
+![An image](ihttps://i.imgur.com/GKkXDZY.png) <!-- .element height="50%" width="50%" -->
 
 
 ![Downloading](https://i.imgur.com/6rdG3NW.png)
